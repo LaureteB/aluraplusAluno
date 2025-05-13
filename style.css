@@ -20,7 +20,7 @@ body {
     padding: 0;
 }
 
-.principal {
+.principalcontainer{
     background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
